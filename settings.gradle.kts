@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "nourimate_TA"
+rootProject.name = "Nourimate TA"
 include(":app")
  
